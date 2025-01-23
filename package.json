@@ -4,11 +4,20 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "jest": "^24.1.0"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickVendetti/sorting-exercise.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/NickVendetti/sorting-exercise/issues"
+  },
+  "homepage": "https://github.com/NickVendetti/sorting-exercise#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
